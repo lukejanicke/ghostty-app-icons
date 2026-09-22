@@ -24,11 +24,3 @@ An unofficial Ghostty app icon for macOS, based on the [SVG logo](https://ghostt
 | Material Light | <a href="./icons/borderless/ghostty-material-light.icns?raw=true"><img src="./icons/borderless/previews/ghostty-material-light.png" alt="Material Light — borderless" width="128" height="128"></a> | <a href="./icons/rounded/ghostty-material-light.icns?raw=true"><img src="./icons/rounded/previews/ghostty-material-light.png" alt="Material Light — rounded" width="128" height="128"></a> |
 | Cute by Day | <a href="./icons/borderless/ghostty-cute-by-day.icns?raw=true"><img src="./icons/borderless/previews/ghostty-cute-by-day.png" alt="Cute by Day — borderless" width="128" height="128"></a> | <a href="./icons/rounded/ghostty-cute-by-day.icns?raw=true"><img src="./icons/rounded/previews/ghostty-cute-by-day.png" alt="Cute by Day — rounded" width="128" height="128"></a> |
 | Cute by Night | <a href="./icons/borderless/ghostty-cute-by-night.icns?raw=true"><img src="./icons/borderless/previews/ghostty-cute-by-night.png" alt="Cute by Night — borderless" width="128" height="128"></a> | <a href="./icons/rounded/ghostty-cute-by-night.icns?raw=true"><img src="./icons/rounded/previews/ghostty-cute-by-night.png" alt="Cute by Night — rounded" width="128" height="128"></a> |
-
-## Source files
-
-- [icons/borderless/svg/](./icons/borderless/svg/) contains the SVGs sized for the borderless version.
-- [icons/rounded/](./icons/rounded/) contains the editable `.icon` projects for Icon Composer alongside the rounded `.icns` files.
-- [svg/](./svg/) and [ghostty-app-icons.af](./ghostty-app-icons.af) contain the original artwork.
-
-Rounded icons use a flat, neutral grey background. Select **Liquid Glass Effects Disabled** in Icon Composer before exporting to preserve the flat appearance.
