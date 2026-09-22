@@ -1,0 +1,30 @@
+{
+  "fill": {
+    "solid": "srgb:0.85098,0.85098,0.85098,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "café-espresso.svg",
+          "name": "café-espresso",
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.3
+      },
+      "specular": false
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}
