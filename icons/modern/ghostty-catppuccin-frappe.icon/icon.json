@@ -1,0 +1,120 @@
+{
+  "groups": [
+    {
+      "name": "Marks",
+      "layers": [
+        {
+          "name": "Chevron",
+          "image-name": "Chevron.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Cursor",
+          "image-name": "Cursor.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.1
+      },
+      "specular": false
+    },
+    {
+      "name": "Face",
+      "layers": [
+        {
+          "name": "Face",
+          "image-name": "Face.svg",
+          "glass": true,
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.18824,0.20392,0.27451,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.00000,0.00000,0.00000,1.00000"
+              }
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.14
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.1
+      },
+      "specular": true
+    },
+    {
+      "name": "Rim",
+      "layers": [
+        {
+          "name": "Rim",
+          "image-name": "Rim.svg",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.14
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.1
+      },
+      "specular": true
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  },
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.38431,0.40784,0.50196,1.00000",
+          "srgb:0.25490,0.27059,0.34902,1.00000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.31765,0.34118,0.42745,1.00000",
+          "srgb:0.16078,0.17255,0.23529,1.00000"
+        ]
+      }
+    }
+  ]
+}

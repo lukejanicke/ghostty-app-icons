@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "Porcelain.svg",
+          "name": "Porcelain",
+          "fill-specializations": [
+            {
+              "value": {
+                "linear-gradient": [
+                  "srgb:0.96471,0.98824,1.00000,1.00000",
+                  "srgb:0.75686,0.84706,1.00000,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "srgb:0.65098,0.73725,0.96471,1.00000",
+                  "srgb:0.43137,0.53725,0.78824,1.00000"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.18
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.13
+      },
+      "name": "Face"
+    },
+    {
+      "layers": [
+        {
+          "image-name": "Ghostty Blue.svg",
+          "name": "Ghostty Blue",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.20784,0.31765,0.95294,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "srgb:0.34510,0.44314,0.77647,1.00000",
+                  "srgb:0.20000,0.26275,0.58039,1.00000"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.3
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.18
+      },
+      "name": "Rim"
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  },
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.14118,0.14118,0.15686,1.00000",
+          "srgb:0.05882,0.05882,0.06667,1.00000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.08627,0.08627,0.10196,1.00000",
+          "srgb:0.05882,0.05882,0.06667,1.00000"
+        ]
+      }
+    }
+  ]
+}
