@@ -9,7 +9,7 @@ Unofficial macOS app icons based on the [Ghostty logo](https://ghostty.org/ghost
 
 ## Installation
 
-1. Download an `.icns` file and copy it to `~/.config/ghostty/icons/`. This example uses the Graphite Dark tile.
+1. Download an `.icns` file and copy it to `~/.config/ghostty/icons/`.
 
    ```sh
    mkdir -p ~/.config/ghostty/icons
@@ -29,35 +29,29 @@ Ghostty 1.4 supports custom icons in the Dock, app switcher, and Finder. Finder 
 
 ### Switch icons with light and dark mode
 
-Download the **Original Light** and **Original Dark** Tile icons from [Downloads](#downloads) and copy both files to `~/.config/ghostty/icons/`. This example pairs Original Light with the Catppuccin Latte terminal theme in Light Mode and Original Dark with Catppuccin Mocha in Dark Mode.
+Choose one icon for light mode and one for dark mode from [Downloads](#downloads). Copy both `.icns` files to `~/.config/ghostty/icons/`.
 
-Make local copies of the bundled [Catppuccin Latte theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/ghostty/Catppuccin%20Latte) and [Catppuccin Mocha theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/ghostty/Catppuccin%20Mocha).
+Make a local copy of each terminal theme you want to use. Bundled themes are in `/Applications/Ghostty.app/Contents/Resources/ghostty/themes/`. Save the copies in `~/.config/ghostty/themes/` as `Light with Icon` and `Dark with Icon`, creating the folder if needed.
 
-```sh
-mkdir -p ~/.config/ghostty/themes
-cp -n "/Applications/Ghostty.app/Contents/Resources/ghostty/themes/Catppuccin Latte" ~/.config/ghostty/themes/"Catppuccin Latte with Icon"
-cp -n "/Applications/Ghostty.app/Contents/Resources/ghostty/themes/Catppuccin Mocha" ~/.config/ghostty/themes/"Catppuccin Mocha with Icon"
-```
+Set `macos-custom-icon` in each copy, using the filenames you downloaded.
 
-Set `macos-custom-icon` in each local theme file.
-
-**Light Mode** — `~/.config/ghostty/themes/Catppuccin Latte with Icon`
+**`~/.config/ghostty/themes/Light with Icon`**
 
 ```ini
 macos-custom-icon = ~/.config/ghostty/icons/ghostty-tile-original-light.icns
 ```
 
-**Dark Mode** — `~/.config/ghostty/themes/Catppuccin Mocha with Icon`
+**`~/.config/ghostty/themes/Dark with Icon`**
 
 ```ini
 macos-custom-icon = ~/.config/ghostty/icons/ghostty-tile-original-dark.icns
 ```
 
-In `~/.config/ghostty/config.ghostty`, select the two themes and remove or comment out any global `macos-custom-icon` setting, which takes precedence over the theme files.
+In `~/.config/ghostty/config.ghostty`, select the two local themes. Remove or comment out any `macos-custom-icon` line in this file so Ghostty uses the icon from each theme.
 
 ```ini
 macos-icon = custom
-theme = light:Catppuccin Latte with Icon,dark:Catppuccin Mocha with Icon
+theme = light:Light with Icon,dark:Dark with Icon
 ```
 
 Reload Ghostty to apply the changes. See [Ghostty light and dark themes](https://ghostty.org/docs/features/theme#separate-light-and-dark-themes).
