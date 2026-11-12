@@ -1,4 +1,4 @@
-"""Generate the flat cutout SVGs from the Original Dark artwork and palettes.json."""
+"""Generate the flat cutout SVGs from the Original artwork and palettes.json."""
 
 import json
 import re
@@ -8,7 +8,7 @@ from tempfile import TemporaryDirectory
 
 ROOT = Path(__file__).resolve().parents[1]
 SVG_DIR = ROOT / "icons" / "cutout" / "svg"
-TEMPLATE_THEME = "original-dark"
+TEMPLATE_THEME = "original"
 SVG_NS = "http://www.w3.org/2000/svg"
 ROLES = ("background", "middle", "face", "chevron", "eye")
 

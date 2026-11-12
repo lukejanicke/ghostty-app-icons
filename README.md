@@ -1,8 +1,8 @@
 # Ghostty App Icons
 
 <p align="center">
-  <a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light" width="128" height="128"></a>
   <a href="./icons/tile/ghostty-tile-original-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-dark.png" alt="Original Dark" width="128" height="128"></a>
+  <a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light" width="128" height="128"></a>
 </p>
 
 Unofficial macOS app icons based on the [Ghostty logo](https://ghostty.org/ghostty-logo.svg).
@@ -64,21 +64,95 @@ Reload Ghostty to apply the changes. See [Ghostty light and dark themes](https:/
 
 ## Downloads
 
-| Theme | Cutout | Tile |
-| --- | :---: | :---: |
-| Original Light | — | <a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light — white tile, black outer outline and blue marks" width="128" height="128"></a> |
-| Original Dark | <a href="./icons/cutout/ghostty-cutout-original-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-original-dark.png" alt="Original Dark — cutout" width="128" height="128"></a> | <a href="./icons/tile/ghostty-tile-original-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-dark.png" alt="Original Dark — black tile, blue outer outline and black marks" width="128" height="128"></a> |
-| Graphite Light | <a href="./icons/cutout/ghostty-cutout-graphite-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-light.png" alt="Graphite Light — cutout with charcoal marks" width="128" height="128"></a> | <a href="./icons/tile/ghostty-tile-graphite-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-light.png" alt="Graphite Light — tile" width="128" height="128"></a> |
-| Graphite Dark | <a href="./icons/cutout/ghostty-cutout-graphite-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-dark.png" alt="Graphite Dark — cutout with near-black marks" width="128" height="128"></a> | <a href="./icons/tile/ghostty-tile-graphite-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-dark.png" alt="Graphite Dark — tile" width="128" height="128"></a> |
-| Black | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-black.icns"><img src="./icons/cutout/previews/ghostty-cutout-black.png" alt="Black — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-black.icns"><img src="./icons/tile/previews/ghostty-tile-black.png" alt="Black — tile" width="128" height="128"></a> |
-| White | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-white.icns"><img src="./icons/cutout/previews/ghostty-cutout-white.png" alt="White — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-white.icns"><img src="./icons/tile/previews/ghostty-tile-white.png" alt="White — tile" width="128" height="128"></a> |
-| Catppuccin Mocha | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-catppuccin-mocha.icns"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-mocha.png" alt="Catppuccin Mocha — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-catppuccin-mocha.icns"><img src="./icons/tile/previews/ghostty-tile-catppuccin-mocha.png" alt="Catppuccin Mocha — tile" width="128" height="128"></a> |
-| Catppuccin Macchiato | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-catppuccin-macchiato.icns"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-macchiato.png" alt="Catppuccin Macchiato — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-catppuccin-macchiato.icns"><img src="./icons/tile/previews/ghostty-tile-catppuccin-macchiato.png" alt="Catppuccin Macchiato — tile" width="128" height="128"></a> |
-| Catppuccin Frappé | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-catppuccin-frappe.icns"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-frappe.png" alt="Catppuccin Frappé — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-catppuccin-frappe.icns"><img src="./icons/tile/previews/ghostty-tile-catppuccin-frappe.png" alt="Catppuccin Frappé — tile" width="128" height="128"></a> |
-| Catppuccin Latte | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-catppuccin-latte.icns"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-latte.png" alt="Catppuccin Latte — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-catppuccin-latte.icns"><img src="./icons/tile/previews/ghostty-tile-catppuccin-latte.png" alt="Catppuccin Latte — tile" width="128" height="128"></a> |
-| Café Espresso | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-cafe-espresso.icns"><img src="./icons/cutout/previews/ghostty-cutout-cafe-espresso.png" alt="Café Espresso — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-cafe-espresso.icns"><img src="./icons/tile/previews/ghostty-tile-cafe-espresso.png" alt="Café Espresso — tile" width="128" height="128"></a> |
-| Café Latte | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-cafe-latte.icns"><img src="./icons/cutout/previews/ghostty-cutout-cafe-latte.png" alt="Café Latte — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-cafe-latte.icns"><img src="./icons/tile/previews/ghostty-tile-cafe-latte.png" alt="Café Latte — tile" width="128" height="128"></a> |
-| Material Dark | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-material-dark.icns"><img src="./icons/cutout/previews/ghostty-cutout-material-dark.png" alt="Material Dark — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-material-dark.icns"><img src="./icons/tile/previews/ghostty-tile-material-dark.png" alt="Material Dark — tile" width="128" height="128"></a> |
-| Material Light | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-material-light.icns"><img src="./icons/cutout/previews/ghostty-cutout-material-light.png" alt="Material Light — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-material-light.icns"><img src="./icons/tile/previews/ghostty-tile-material-light.png" alt="Material Light — tile" width="128" height="128"></a> |
-| Cute by Day | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-cute-by-day.icns"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-day.png" alt="Cute by Day — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-cute-by-day.icns"><img src="./icons/tile/previews/ghostty-tile-cute-by-day.png" alt="Cute by Day — tile" width="128" height="128"></a> |
-| Cute by Night | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/cutout/ghostty-cutout-cute-by-night.icns"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-night.png" alt="Cute by Night — cutout" width="128" height="128"></a> | <a href="https://raw.githubusercontent.com/lukejanicke/ghostty-app-icons/refs/heads/main/icons/tile/ghostty-tile-cute-by-night.icns"><img src="./icons/tile/previews/ghostty-tile-cute-by-night.png" alt="Cute by Night — tile" width="128" height="128"></a> |
+### Cutouts
+
+<table>
+  <thead>
+    <tr><th scope="col">Theme</th><th colspan="4" scope="colgroup">Downloads</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Original</th>
+      <td colspan="4" align="center"><a href="./icons/cutout/ghostty-cutout-original.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-original.png" alt="Original Cutout" width="128" height="128"><br>Original Cutout</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Graphite</th>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-graphite-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-light.png" alt="Graphite Light Cutout" width="128" height="128"><br>Light</a></td>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-graphite-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-dark.png" alt="Graphite Dark Cutout" width="128" height="128"><br>Dark</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Black &amp; White</th>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-white.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-white.png" alt="White Cutout" width="128" height="128"><br>White</a></td>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-black.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-black.png" alt="Black Cutout" width="128" height="128"><br>Black</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Catppuccin</th>
+      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-latte.png" alt="Catppuccin Latte Cutout" width="128" height="128"><br>Latte</a></td>
+      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-frappe.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-frappe.png" alt="Catppuccin Frappé Cutout" width="128" height="128"><br>Frappé</a></td>
+      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-macchiato.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-macchiato.png" alt="Catppuccin Macchiato Cutout" width="128" height="128"><br>Macchiato</a></td>
+      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-mocha.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-mocha.png" alt="Catppuccin Mocha Cutout" width="128" height="128"><br>Mocha</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Café</th>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cafe-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-latte.png" alt="Café Latte Cutout" width="128" height="128"><br>Latte</a></td>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cafe-espresso.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-espresso.png" alt="Café Espresso Cutout" width="128" height="128"><br>Espresso</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Material</th>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-material-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-light.png" alt="Material Light Cutout" width="128" height="128"><br>Light</a></td>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-material-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-dark.png" alt="Material Dark Cutout" width="128" height="128"><br>Dark</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Cute</th>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cute-by-day.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-day.png" alt="Cute by Day Cutout" width="128" height="128"><br>Cute by Day</a></td>
+      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cute-by-night.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-night.png" alt="Cute by Night Cutout" width="128" height="128"><br>Cute by Night</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Tiles
+
+<table>
+  <thead>
+    <tr><th scope="col">Theme</th><th colspan="4" scope="colgroup">Downloads</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Original</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light Tile" width="128" height="128"><br>Light</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-original-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-dark.png" alt="Original Dark Tile" width="128" height="128"><br>Dark</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Graphite</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-graphite-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-light.png" alt="Graphite Light Tile" width="128" height="128"><br>Light</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-graphite-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-dark.png" alt="Graphite Dark Tile" width="128" height="128"><br>Dark</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Black &amp; White</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-white.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-white.png" alt="White Tile" width="128" height="128"><br>White</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-black.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-black.png" alt="Black Tile" width="128" height="128"><br>Black</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Catppuccin</th>
+      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-latte.png" alt="Catppuccin Latte Tile" width="128" height="128"><br>Latte</a></td>
+      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-frappe.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-frappe.png" alt="Catppuccin Frappé Tile" width="128" height="128"><br>Frappé</a></td>
+      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-macchiato.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-macchiato.png" alt="Catppuccin Macchiato Tile" width="128" height="128"><br>Macchiato</a></td>
+      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-mocha.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-mocha.png" alt="Catppuccin Mocha Tile" width="128" height="128"><br>Mocha</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Café</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cafe-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-latte.png" alt="Café Latte Tile" width="128" height="128"><br>Latte</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cafe-espresso.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-espresso.png" alt="Café Espresso Tile" width="128" height="128"><br>Espresso</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Material</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-material-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-light.png" alt="Material Light Tile" width="128" height="128"><br>Light</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-material-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-dark.png" alt="Material Dark Tile" width="128" height="128"><br>Dark</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Cute</th>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cute-by-day.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-day.png" alt="Cute by Day Tile" width="128" height="128"><br>Cute by Day</a></td>
+      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cute-by-night.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-night.png" alt="Cute by Night Tile" width="128" height="128"><br>Cute by Night</a></td>
+    </tr>
+  </tbody>
+</table>
