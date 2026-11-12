@@ -62,44 +62,58 @@ Reload Ghostty to apply the changes. See [Ghostty light and dark themes](https:/
 
 <table>
   <thead>
-    <tr><th scope="col">Theme</th><th colspan="4" scope="colgroup">Downloads</th></tr>
+    <tr><th scope="col">Theme</th><th scope="col" align="left">Variants</th></tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Original</th>
-      <td colspan="4" align="center"><a href="./icons/cutout/ghostty-cutout-original.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-original.png" alt="Original Cutout" width="128" height="128"><br>Original Cutout</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-original.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-original.png" alt="Original Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Graphite</th>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-graphite-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-light.png" alt="Graphite Light Cutout" width="128" height="128"><br>Light</a></td>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-graphite-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-dark.png" alt="Graphite Dark Cutout" width="128" height="128"><br>Dark</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-graphite-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-light.png" alt="Graphite Light Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-graphite-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-graphite-dark.png" alt="Graphite Dark Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Black &amp; White</th>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-white.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-white.png" alt="White Cutout" width="128" height="128"><br>White</a></td>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-black.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-black.png" alt="Black Cutout" width="128" height="128"><br>Black</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-white.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-white.png" alt="White Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-black.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-black.png" alt="Black Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Catppuccin</th>
-      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-latte.png" alt="Catppuccin Latte Cutout" width="128" height="128"><br>Latte</a></td>
-      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-frappe.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-frappe.png" alt="Catppuccin Frappé Cutout" width="128" height="128"><br>Frappé</a></td>
-      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-macchiato.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-macchiato.png" alt="Catppuccin Macchiato Cutout" width="128" height="128"><br>Macchiato</a></td>
-      <td align="center"><a href="./icons/cutout/ghostty-cutout-catppuccin-mocha.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-mocha.png" alt="Catppuccin Mocha Cutout" width="128" height="128"><br>Mocha</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-catppuccin-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-latte.png" alt="Catppuccin Latte Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-catppuccin-frappe.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-frappe.png" alt="Catppuccin Frappé Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-catppuccin-macchiato.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-macchiato.png" alt="Catppuccin Macchiato Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-catppuccin-mocha.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-catppuccin-mocha.png" alt="Catppuccin Mocha Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Café</th>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cafe-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-latte.png" alt="Café Latte Cutout" width="128" height="128"><br>Latte</a></td>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cafe-espresso.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-espresso.png" alt="Café Espresso Cutout" width="128" height="128"><br>Espresso</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-cafe-latte.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-latte.png" alt="Café Latte Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-cafe-espresso.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cafe-espresso.png" alt="Café Espresso Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Material</th>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-material-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-light.png" alt="Material Light Cutout" width="128" height="128"><br>Light</a></td>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-material-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-dark.png" alt="Material Dark Cutout" width="128" height="128"><br>Dark</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-material-light.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-light.png" alt="Material Light Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-material-dark.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-material-dark.png" alt="Material Dark Cutout" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Cute</th>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cute-by-day.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-day.png" alt="Cute by Day Cutout" width="128" height="128"><br>Cute by Day</a></td>
-      <td colspan="2" align="center"><a href="./icons/cutout/ghostty-cutout-cute-by-night.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-night.png" alt="Cute by Night Cutout" width="128" height="128"><br>Cute by Night</a></td>
+      <td align="left">
+        <a href="./icons/cutout/ghostty-cutout-cute-by-day.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-day.png" alt="Cute by Day Cutout" width="128" height="128"></a>
+        <a href="./icons/cutout/ghostty-cutout-cute-by-night.icns?raw=true"><img src="./icons/cutout/previews/ghostty-cutout-cute-by-night.png" alt="Cute by Night Cutout" width="128" height="128"></a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -108,45 +122,59 @@ Reload Ghostty to apply the changes. See [Ghostty light and dark themes](https:/
 
 <table>
   <thead>
-    <tr><th scope="col">Theme</th><th colspan="4" scope="colgroup">Downloads</th></tr>
+    <tr><th scope="col">Theme</th><th scope="col" align="left">Variants</th></tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Original</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light Tile" width="128" height="128"><br>Light</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-original-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-dark.png" alt="Original Dark Tile" width="128" height="128"><br>Dark</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-original-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-light.png" alt="Original Light Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-original-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-original-dark.png" alt="Original Dark Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Graphite</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-graphite-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-light.png" alt="Graphite Light Tile" width="128" height="128"><br>Light</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-graphite-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-dark.png" alt="Graphite Dark Tile" width="128" height="128"><br>Dark</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-graphite-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-light.png" alt="Graphite Light Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-graphite-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-graphite-dark.png" alt="Graphite Dark Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Black &amp; White</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-white.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-white.png" alt="White Tile" width="128" height="128"><br>White</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-black.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-black.png" alt="Black Tile" width="128" height="128"><br>Black</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-white.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-white.png" alt="White Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-black.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-black.png" alt="Black Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Catppuccin</th>
-      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-latte.png" alt="Catppuccin Latte Tile" width="128" height="128"><br>Latte</a></td>
-      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-frappe.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-frappe.png" alt="Catppuccin Frappé Tile" width="128" height="128"><br>Frappé</a></td>
-      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-macchiato.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-macchiato.png" alt="Catppuccin Macchiato Tile" width="128" height="128"><br>Macchiato</a></td>
-      <td align="center"><a href="./icons/tile/ghostty-tile-catppuccin-mocha.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-mocha.png" alt="Catppuccin Mocha Tile" width="128" height="128"><br>Mocha</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-catppuccin-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-latte.png" alt="Catppuccin Latte Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-catppuccin-frappe.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-frappe.png" alt="Catppuccin Frappé Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-catppuccin-macchiato.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-macchiato.png" alt="Catppuccin Macchiato Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-catppuccin-mocha.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-catppuccin-mocha.png" alt="Catppuccin Mocha Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Café</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cafe-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-latte.png" alt="Café Latte Tile" width="128" height="128"><br>Latte</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cafe-espresso.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-espresso.png" alt="Café Espresso Tile" width="128" height="128"><br>Espresso</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-cafe-latte.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-latte.png" alt="Café Latte Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-cafe-espresso.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cafe-espresso.png" alt="Café Espresso Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Material</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-material-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-light.png" alt="Material Light Tile" width="128" height="128"><br>Light</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-material-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-dark.png" alt="Material Dark Tile" width="128" height="128"><br>Dark</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-material-light.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-light.png" alt="Material Light Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-material-dark.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-material-dark.png" alt="Material Dark Tile" width="128" height="128"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">Cute</th>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cute-by-day.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-day.png" alt="Cute by Day Tile" width="128" height="128"><br>Cute by Day</a></td>
-      <td colspan="2" align="center"><a href="./icons/tile/ghostty-tile-cute-by-night.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-night.png" alt="Cute by Night Tile" width="128" height="128"><br>Cute by Night</a></td>
+      <td align="left">
+        <a href="./icons/tile/ghostty-tile-cute-by-day.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-day.png" alt="Cute by Day Tile" width="128" height="128"></a>
+        <a href="./icons/tile/ghostty-tile-cute-by-night.icns?raw=true"><img src="./icons/tile/previews/ghostty-tile-cute-by-night.png" alt="Cute by Night Tile" width="128" height="128"></a>
+      </td>
     </tr>
   </tbody>
 </table>
