@@ -35,14 +35,12 @@ Make a local copy of each terminal theme you want to use. Bundled themes are in 
 
 Set `macos-custom-icon` in each copy, using the filenames you downloaded.
 
-**`~/.config/ghostty/themes/Light with Icon`**
-
+**`~/.config/ghostty/themes/Light with Icon`**:
 ```ini
 macos-custom-icon = ~/.config/ghostty/icons/ghostty-tile-original-light.icns
 ```
 
-**`~/.config/ghostty/themes/Dark with Icon`**
-
+**`~/.config/ghostty/themes/Dark with Icon`**:
 ```ini
 macos-custom-icon = ~/.config/ghostty/icons/ghostty-tile-original-dark.icns
 ```
