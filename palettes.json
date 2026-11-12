@@ -1,0 +1,93 @@
+{
+  "original-dark": {
+    "background": "#3551F3",
+    "middle": "#000000",
+    "face": "#FFFFFF",
+    "chevron": "#000000",
+    "eye": "#000000"
+  },
+  "black": {
+    "background": "#000000",
+    "middle": "#FFFFFF",
+    "face": "#000000",
+    "chevron": "#FFFFFF",
+    "eye": "#FFFFFF"
+  },
+  "cafe-espresso": {
+    "background": "#1A1A1A",
+    "middle": "#B59781",
+    "face": "#2E2E2E",
+    "chevron": "#D9C6B6",
+    "eye": "#F0DED0"
+  },
+  "cafe-latte": {
+    "background": "#E8DFD6",
+    "middle": "#3D2E22",
+    "face": "#F5ECE5",
+    "chevron": "#5A4634",
+    "eye": "#7B6048"
+  },
+  "catppuccin-frappe": {
+    "background": "#232634",
+    "middle": "#CA9EE6",
+    "face": "#303446",
+    "chevron": "#A6D189",
+    "eye": "#8CAAEE"
+  },
+  "catppuccin-latte": {
+    "background": "#DCE0E8",
+    "middle": "#8839EF",
+    "face": "#EFF1F5",
+    "chevron": "#40A02B",
+    "eye": "#1E66F5"
+  },
+  "catppuccin-macchiato": {
+    "background": "#181926",
+    "middle": "#C6A0F6",
+    "face": "#24273A",
+    "chevron": "#A6DA95",
+    "eye": "#8AADF4"
+  },
+  "catppuccin-mocha": {
+    "background": "#11111B",
+    "middle": "#CBA6F7",
+    "face": "#1E1E2E",
+    "chevron": "#A6E3A1",
+    "eye": "#89B4FA"
+  },
+  "cute-by-day": {
+    "background": "#FCE4EC",
+    "middle": "#F50057",
+    "face": "#FCE4EC",
+    "chevron": "#F50057",
+    "eye": "#F50057"
+  },
+  "cute-by-night": {
+    "background": "#F50057",
+    "middle": "#FCE4EC",
+    "face": "#F50057",
+    "chevron": "#FCE4EC",
+    "eye": "#FCE4EC"
+  },
+  "material-dark": {
+    "background": "#212121",
+    "middle": "#E53935",
+    "face": "#424242",
+    "chevron": "#43A047",
+    "eye": "#1E88E5"
+  },
+  "material-light": {
+    "background": "#EEEEEE",
+    "middle": "#F44336",
+    "face": "#F5F5F5",
+    "chevron": "#4CAF50",
+    "eye": "#2196F3"
+  },
+  "white": {
+    "background": "#FFFFFF",
+    "middle": "#000000",
+    "face": "#FFFFFF",
+    "chevron": "#000000",
+    "eye": "#000000"
+  }
+}
